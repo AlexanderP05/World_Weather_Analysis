@@ -1,0 +1,1891 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Current Description
+0,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+2,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+3,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+4,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+5,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+6,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+7,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+8,San Antonio,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+9,Sibolga,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+10,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+11,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+12,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+13,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+14,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+15,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+16,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+17,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+18,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+19,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+20,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+21,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+22,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+23,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+24,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+25,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+26,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+27,Coffs Harbour,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+28,Sumbawa,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+29,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+30,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+31,Atambua,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+32,Mount Gambier,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+33,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+34,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+35,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+36,Sucua,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+37,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+38,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+39,Westport,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+40,Thinadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+41,San Carlos De Bariloche,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+42,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+43,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+44,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+45,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+46,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+47,Avera,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+48,Port Lincoln,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+49,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+50,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+51,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+52,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+53,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+54,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+55,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+56,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+57,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+58,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+59,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+60,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+61,Senanga,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+62,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+63,Kaputa,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+64,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+65,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+66,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+67,Alta Floresta,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+68,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+69,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+70,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+71,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+72,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+73,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+74,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+75,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+76,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+77,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+78,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+79,Jaru,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+80,Luwuk,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+81,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+82,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+83,Plettenberg Bay,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+84,Asau,46.4333,26.4,49.28,89,5,1.3,RO,light rain
+85,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+86,Senanga,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+87,Ancud,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+88,Metro,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+89,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+90,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+91,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+92,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+93,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+94,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+95,Fare,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+96,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+97,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+98,Martapura,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+99,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+100,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+101,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+102,Kruisfontein,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+103,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+104,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+105,Labuhan,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+106,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+107,Isangel,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+108,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+109,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+110,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+111,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+112,Santa Rosa,14.3122,121.1114,84.85,78,77,2.93,PH,broken clouds
+113,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+114,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+115,Lolua,46.4333,26.4,49.28,89,5,1.3,RO,light rain
+116,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+117,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+118,Villa Carlos Paz,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+119,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+120,Coquimbo,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+121,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+122,Fare,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+123,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+124,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+125,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+126,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+127,Maragogi,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+128,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+129,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+130,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+131,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+132,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+133,Jilib,0.4883,42.7854,73.94,94,73,6.42,SO,broken clouds
+134,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+135,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+136,Gondanglegi,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+137,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+138,Molteno,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+139,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+140,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+141,San Cristobal,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+142,Singojuruh,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+143,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+144,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+145,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+146,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+147,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+148,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+149,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+150,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+151,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+152,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+153,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+154,Broome,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+155,Vao,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+156,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+157,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+158,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+159,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+160,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+161,Viedma,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+162,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+163,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+164,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+165,Miraflores,19.2167,-98.8083,65.05,92,94,3.0,MX,light rain
+166,Kaoma,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+167,Caravelas,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+168,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+169,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+170,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+171,Kirakira,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+172,Yulara,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+173,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+174,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+175,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+176,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+177,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+178,Coihaique,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+179,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+180,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+181,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+182,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+183,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+184,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+185,Diego De Almagro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+186,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+187,Cuamba,-14.8031,36.5372,76.53,39,34,6.4,MZ,scattered clouds
+188,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+189,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+190,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+191,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+192,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+193,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+194,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+195,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+196,Lakatoro,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+197,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+198,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+199,Plettenberg Bay,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+200,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+201,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+202,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+203,Kiunga,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+204,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+205,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+206,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+207,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+208,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+209,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+210,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+211,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+212,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+213,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+214,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+215,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+216,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+217,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+218,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+219,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+220,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+221,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+222,Poum,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+223,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+224,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+225,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+226,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+227,Quatre Cocos,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+228,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+229,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+230,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+231,Sehithwa,-20.4667,22.7167,76.42,19,34,5.46,BW,scattered clouds
+232,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+233,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+234,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+235,Belmonte,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+236,Richards Bay,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+237,Rivadavia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+238,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+239,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+240,Ahipara,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+241,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+242,Fayaoue,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+243,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+244,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+245,Padang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+246,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+247,Takoradi,4.8845,-1.7554,75.79,91,68,6.31,GH,broken clouds
+248,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+249,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+250,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+251,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+252,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+253,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+254,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+255,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+256,Hambantota,6.1241,81.1185,79.77,77,99,8.55,LK,overcast clouds
+257,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+258,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+259,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+260,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+261,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+262,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+263,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+264,Nabire,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+265,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+266,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+267,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+268,Laguna,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+269,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+270,Ouesso,1.6136,16.0517,70.61,98,93,2.77,CG,overcast clouds
+271,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+272,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+273,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+274,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+275,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+276,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+277,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+278,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+279,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+280,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+281,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+282,Geraldton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+283,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+284,Padang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+285,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+286,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+287,Ancud,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+288,Laguna,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+289,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+290,Innisfail,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+291,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+292,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+293,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+294,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+295,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+296,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+297,Walvis Bay,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+298,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+299,Waingapu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+300,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+301,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+302,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+303,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+304,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+305,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+306,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+307,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+308,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+309,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+310,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+311,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+312,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+313,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+314,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+315,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+316,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+317,Te Anau,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+318,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+319,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+320,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+321,Mayumba,-3.432,10.6554,75.36,86,99,7.56,GA,overcast clouds
+322,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+323,Auki,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+324,Mendahara,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+325,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+326,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+327,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+328,Comodoro Rivadavia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+329,Boa Viagem,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+330,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+331,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+332,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+333,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+334,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+335,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+336,Port Hedland,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+337,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+338,Breves,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+339,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+340,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+341,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+342,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+343,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+344,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+345,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+346,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+347,Barra Do Bugres,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+348,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+349,Itarema,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+350,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+351,Kaeo,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+352,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+353,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+354,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+355,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+356,Kiunga,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+357,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+358,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+359,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+360,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+361,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+362,Rio Gallegos,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+363,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+364,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+365,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+366,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+367,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+368,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+369,Grand Gaube,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+370,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+371,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+372,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+373,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+374,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+375,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+376,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+377,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+378,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+379,Meulaboh,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+380,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+381,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+382,Rio Gallegos,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+383,Inhambane,-14.8031,36.5372,76.53,39,34,6.4,MZ,scattered clouds
+384,Saint-Joseph,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+385,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+386,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+387,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+388,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+389,Le Port,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+390,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+391,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+392,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+393,Salinas,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+394,Hambantota,6.1241,81.1185,79.77,77,99,8.55,LK,overcast clouds
+395,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+396,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+397,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+398,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+399,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+400,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+401,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+402,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+403,Ahipara,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+404,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+405,Nkhotakota,-12.9274,34.2961,75.56,56,13,4.16,MW,few clouds
+406,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+407,Olinda,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+408,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+409,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+410,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+411,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+412,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+413,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+414,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+415,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+416,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+417,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+418,Garissa,-0.4536,39.6401,75.7,81,98,16.69,KE,overcast clouds
+419,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+420,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+421,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+422,Ahipara,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+423,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+424,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+425,Gizo,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+426,Coquimbo,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+427,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+428,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+429,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+430,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+431,Kirakira,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+432,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+433,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+434,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+435,Biak,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+436,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+437,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+438,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+439,Byron Bay,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+440,Burnie,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+441,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+442,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+443,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+444,Umzimvubu,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+445,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+446,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+447,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+448,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+449,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+450,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+451,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+452,Richards Bay,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+453,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+454,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+455,Santa Isabel Do Rio Negro,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+456,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+457,Auki,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+458,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+459,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+460,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+461,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+462,Lata,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+463,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+464,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+465,Kruisfontein,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+466,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+467,Caravelas,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+468,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+469,Olinda,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+470,Comodoro Rivadavia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+471,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+472,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+473,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+474,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+475,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+476,Joao Pessoa,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+477,Bulawayo,-20.15,28.5833,69.58,38,1,16.28,ZW,clear sky
+478,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+479,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+480,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+481,Necochea,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+482,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+483,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+484,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+485,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+486,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+487,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+488,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+489,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+490,Guarapari,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+491,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+492,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+493,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+494,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+495,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+496,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+497,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+498,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+499,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+500,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+501,Port Lincoln,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+502,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+503,Grand Gaube,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+504,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+505,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+506,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+507,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+508,Challapata,14.3122,121.1114,84.85,78,77,2.93,PH,broken clouds
+509,Padang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+510,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+511,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+512,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+513,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+514,Narrabri,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+515,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+516,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+517,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+518,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+519,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+520,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+521,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+522,Asau,46.4333,26.4,49.28,89,5,1.3,RO,light rain
+523,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+524,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+525,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+526,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+527,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+528,Dunda,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+529,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+530,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+531,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+532,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+533,Micheweni,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+534,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+535,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+536,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+537,Barcelos,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+538,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+539,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+540,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+541,Poya,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+542,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+543,Conceicao Do Araguaia,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+544,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+545,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+546,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+547,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+548,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+549,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+550,Katherine,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+551,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+552,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+553,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+554,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+555,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+556,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+557,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+558,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+559,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+560,San Cristobal,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+561,Mount Gambier,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+562,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+563,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+564,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+565,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+566,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+567,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+568,Palabuhanratu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+569,Vila Velha,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+570,Tabou,4.423,-7.3528,76.06,89,100,4.72,CI,moderate rain
+571,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+572,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+573,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+574,Asau,46.4333,26.4,49.28,89,5,1.3,RO,light rain
+575,Kaeo,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+576,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+577,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+578,Kieta,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+579,Palabuhanratu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+580,Curuguaty,-24.4694,-55.6945,80.08,46,18,4.52,PY,few clouds
+581,Tabou,4.423,-7.3528,76.06,89,100,4.72,CI,moderate rain
+582,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+583,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+584,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+585,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+586,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+587,Rawson,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+588,Port Lincoln,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+589,Namatanai,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+590,Pergamino,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+591,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+592,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+593,Trelew,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+594,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+595,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+596,Christchurch,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+597,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+598,Merauke,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+599,Irpa Irpa,14.3122,121.1114,84.85,78,77,2.93,PH,broken clouds
+600,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+601,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+602,Flinders,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+603,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+604,Rawson,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+605,Mount Isa,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+606,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+607,Samarai,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+608,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+609,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+610,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+611,Mwinilunga,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+612,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+613,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+614,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+615,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+616,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+617,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+618,Isangel,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+619,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+620,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+621,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+622,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+623,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+624,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+625,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+626,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+627,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+628,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+629,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+630,Sijunjung,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+631,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+632,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+633,Poum,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+634,Hanmer Springs,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+635,Umzimvubu,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+636,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+637,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+638,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+639,Laguna,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+640,Kununurra,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+641,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+642,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+643,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+644,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+645,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+646,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+647,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+648,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+649,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+650,Belmonte,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+651,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+652,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+653,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+654,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+655,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+656,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+657,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+658,Lata,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+659,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+660,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+661,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+662,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+663,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+664,Quatre Cocos,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+665,Gamba,-3.432,10.6554,75.36,86,99,7.56,GA,overcast clouds
+666,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+667,Lichinga,-14.8031,36.5372,76.53,39,34,6.4,MZ,scattered clouds
+668,Lusambo,-4.9667,23.45,70.63,96,99,1.25,CD,light rain
+669,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+670,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+671,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+672,Grand Gaube,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+673,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+674,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+675,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+676,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+677,Broome,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+678,Mayor Pablo Lagerenza,-24.4694,-55.6945,80.08,46,18,4.52,PY,few clouds
+679,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+680,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+681,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+682,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+683,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+684,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+685,Neuquen,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+686,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+687,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+688,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+689,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+690,Alyangula,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+691,Bukama,-4.9667,23.45,70.63,96,99,1.25,CD,light rain
+692,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+693,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+694,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+695,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+696,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+697,Henties Bay,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+698,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+699,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+700,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+701,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+702,Hambantota,6.1241,81.1185,79.77,77,99,8.55,LK,overcast clouds
+703,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+704,Axim,4.8845,-1.7554,75.79,91,68,6.31,GH,broken clouds
+705,Linhares,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+706,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+707,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+708,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+709,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+710,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+711,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+712,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+713,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+714,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+715,Rio Grande,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+716,Mildura,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+717,Flinders,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+718,Santiago,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+719,Cananeia,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+720,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+721,Chinhoyi,-20.15,28.5833,69.58,38,1,16.28,ZW,clear sky
+722,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+723,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+724,Japura,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+725,Natal,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+726,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+727,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+728,Kaeo,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+729,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+730,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+731,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+732,Lorengau,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+733,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+734,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+735,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+736,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+737,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+738,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+739,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+740,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+741,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+742,Conde,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+743,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+744,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+745,Vila Velha,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+746,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+747,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+748,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+749,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+750,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+751,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+752,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+753,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+754,Alyangula,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+755,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+756,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+757,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+758,Ahipara,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+759,Umzimvubu,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+760,Biak,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+761,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+762,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+763,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+764,Charters Towers,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+765,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+766,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+767,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+768,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+769,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+770,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+771,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+772,Constitucion,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+773,Boyolangu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+774,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+775,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+776,Pouembout,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+777,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+778,Yulara,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+779,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+780,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+781,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+782,Kieta,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+783,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+784,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+785,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+786,Lata,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+787,Hambantota,6.1241,81.1185,79.77,77,99,8.55,LK,overcast clouds
+788,Luwuk,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+789,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+790,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+791,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+792,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+793,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+794,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+795,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+796,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+797,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+798,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+799,Kununurra,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+800,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+801,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+802,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+803,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+804,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+805,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+806,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+807,Samarai,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+808,Senanga,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+809,Jaciara,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+810,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+811,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+812,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+813,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+814,Pisco,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+815,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+816,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+817,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+818,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+819,Papara,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+820,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+821,Port Augusta,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+822,Tingi,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+823,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+824,Vaitape,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+825,Manggar,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+826,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+827,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+828,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+829,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+830,Jaragua Do Sul,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+831,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+832,Puerto Leguizamo,19.2167,-98.8083,65.05,92,94,3.0,MX,light rain
+833,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+834,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+835,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+836,Goya,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+837,Maningrida,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+838,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+839,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+840,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+841,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+842,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+843,Concordia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+844,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+845,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+846,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+847,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+848,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+849,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+850,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+851,Bowen,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+852,Kununurra,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+853,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+854,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+855,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+856,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+857,Tiarei,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+858,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+859,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+860,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+861,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+862,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+863,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+864,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+865,Sorong,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+866,Namatanai,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+867,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+868,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+869,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+870,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+871,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+872,Ahipara,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+873,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+874,Broome,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+875,Poum,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+876,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+877,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+878,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+879,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+880,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+881,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+882,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+883,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+884,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+885,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+886,Vao,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+887,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+888,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+889,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+890,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+891,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+892,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+893,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+894,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+895,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+896,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+897,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+898,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+899,Collie,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+900,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+901,Bima,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+902,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+903,Coquimbo,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+904,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+905,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+906,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+907,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+908,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+909,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+910,Viligili,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+911,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+912,Kruisfontein,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+913,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+914,Quatre Cocos,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+915,Eirunepe,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+916,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+917,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+918,Huarmey,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+919,Gizo,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+920,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+921,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+922,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+923,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+924,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+925,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+926,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+927,Emerald,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+928,Meulaboh,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+929,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+930,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+931,Porto Belo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+932,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+933,Alyangula,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+934,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+935,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+936,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+937,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+938,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+939,Bengkalis,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+940,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+941,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+942,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+943,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+944,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+945,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+946,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+947,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+948,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+949,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+950,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+951,Pisco,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+952,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+953,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+954,Tidore,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+955,San Miguel,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+956,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+957,Ahipara,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+958,Maxixe,-14.8031,36.5372,76.53,39,34,6.4,MZ,scattered clouds
+959,Xai-Xai,-14.8031,36.5372,76.53,39,34,6.4,MZ,scattered clouds
+960,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+961,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+962,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+963,Mwingi,-0.4536,39.6401,75.7,81,98,16.69,KE,overcast clouds
+964,Ilhabela,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+965,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+966,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+967,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+968,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+969,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+970,Port Augusta,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+971,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+972,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+973,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+974,Lata,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+975,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+976,Gorontalo,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+977,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+978,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+979,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+980,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+981,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+982,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+983,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+984,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+985,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+986,Touros,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+987,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+988,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+989,Marcona,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+990,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+991,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+992,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+993,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+994,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+995,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+996,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+997,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+998,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+999,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1000,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1001,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1002,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1003,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1004,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1005,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1006,Isangel,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+1007,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1008,Saint-Joseph,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1009,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1010,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1011,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1012,Cabinda,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1013,Grand Gaube,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1014,Kainantu,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1015,Port Hedland,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1016,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1017,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1018,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1019,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1020,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1021,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1022,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1023,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1024,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1025,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1026,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1027,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1028,Forbes,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1029,Samarai,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1030,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1031,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1032,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1033,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1034,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1035,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1036,Umzimvubu,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1037,Cranbourne,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1038,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1039,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1040,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1041,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1042,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1043,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1044,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1045,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1046,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1047,Cap Malheureux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1048,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1049,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1050,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1051,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1052,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1053,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1054,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1055,Nkhotakota,-12.9274,34.2961,75.56,56,13,4.16,MW,few clouds
+1056,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1057,Necochea,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1058,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1059,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1060,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1061,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1062,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1063,Lincoln,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1064,Ilheus,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1065,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1066,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1067,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1068,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1069,Maues,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1070,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1071,Poum,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+1072,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1073,Lata,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+1074,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1075,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1076,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1077,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1078,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1079,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1080,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1081,Kruisfontein,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1082,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1083,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1084,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1085,Port-Gentil,-3.432,10.6554,75.36,86,99,7.56,GA,overcast clouds
+1086,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1087,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1088,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1089,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1090,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1091,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1092,Mbekenyera,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+1093,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1094,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1095,Pontal Do Parana,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1096,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1097,Alofi,-19.0595,-169.9187,77.31,80,60,16.22,NU,light rain
+1098,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1099,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1100,Antofagasta,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1101,Lima,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1102,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1103,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1104,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1105,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1106,Florianopolis,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1107,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1108,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1109,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1110,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1111,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1112,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1113,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1114,Vila Velha,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1115,Imbituba,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1116,Mayumba,-3.432,10.6554,75.36,86,99,7.56,GA,overcast clouds
+1117,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1118,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1119,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1120,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1121,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1122,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1123,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1124,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1125,Rawson,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1126,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1127,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1128,Mount Isa,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1129,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1130,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1131,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1132,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1133,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1134,Coihaique,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1135,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1136,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1137,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1138,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1139,Sola,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+1140,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1141,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1142,Bambanglipuro,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1143,Yulara,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1144,Touros,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1145,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1146,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1147,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1148,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1149,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1150,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1151,Kruisfontein,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1152,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1153,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1154,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1155,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1156,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1157,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1158,Pisco,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1159,Lichtenburg,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1160,Bowen,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1161,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1162,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1163,Kununurra,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1164,Kempsey,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1165,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1166,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1167,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1168,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1169,Russell,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1170,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1171,Tadine,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+1172,Boa Viagem,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1173,Atherton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1174,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1175,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1176,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1177,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1178,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1179,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1180,Le Port,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1181,Mpika,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+1182,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1183,Madang,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1184,Kandrian,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1185,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1186,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1187,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1188,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1189,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1190,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1191,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1192,Pirai Do Sul,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1193,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1194,Carnarvon,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1195,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1196,Kruisfontein,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1197,Banjar,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1198,Mount Gambier,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1199,Vila Velha,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1200,Puerto Leguizamo,19.2167,-98.8083,65.05,92,94,3.0,MX,light rain
+1201,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1202,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1203,Magadi,-0.4536,39.6401,75.7,81,98,16.69,KE,overcast clouds
+1204,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1205,Harper,4.375,-7.7169,75.94,91,100,5.32,LR,moderate rain
+1206,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1207,Christchurch,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1208,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1209,Micheweni,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+1210,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1211,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1212,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1213,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1214,Okato,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1215,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1216,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1217,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1218,Palabuhanratu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1219,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1220,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1221,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1222,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1223,Sumbe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1224,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1225,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1226,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1227,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1228,Warrnambool,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1229,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1230,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1231,Sumbawa,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1232,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1233,Padang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1234,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1235,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1236,Padang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1237,Pirapora,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1238,Iquitos,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1239,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1240,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1241,Nabire,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1242,Ancud,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1243,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1244,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1245,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1246,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1247,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1248,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1249,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1250,Lata,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+1251,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1252,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1253,Luanda,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1254,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1255,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1256,Alofi,-19.0595,-169.9187,77.31,80,60,16.22,NU,light rain
+1257,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1258,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1259,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1260,Tshikapa,-4.9667,23.45,70.63,96,99,1.25,CD,light rain
+1261,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1262,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1263,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1264,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1265,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1266,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1267,Russell,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1268,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1269,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1270,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1271,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1272,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1273,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1274,Richards Bay,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1275,Micheweni,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+1276,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1277,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1278,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1279,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1280,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1281,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1282,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1283,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1284,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1285,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1286,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1287,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1288,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1289,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1290,Merauke,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1291,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1292,Gilgil,-0.4536,39.6401,75.7,81,98,16.69,KE,overcast clouds
+1293,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1294,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1295,Quatre Cocos,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1296,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1297,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1298,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1299,Flinders,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1300,Bell Ville,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1301,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1302,Lorengau,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1303,Tiarei,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1304,Monrovia,4.375,-7.7169,75.94,91,100,5.32,LR,moderate rain
+1305,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1306,Fare,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1307,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1308,Nelson Bay,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1309,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1310,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1311,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1312,Kununurra,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1313,Padang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1314,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1315,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1316,Flinders,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1317,General Pico,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1318,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1319,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1320,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1321,Walvis Bay,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+1322,Manggar,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1323,Rio Grande,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1324,Caravelas,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1325,Itaituba,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1326,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1327,Rawson,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1328,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1329,Viedma,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1330,Isangel,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+1331,Caravelas,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1332,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1333,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1334,Vilcun,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1335,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1336,Pontal Do Parana,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1337,Hobyo,0.4883,42.7854,73.94,94,73,6.42,SO,broken clouds
+1338,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1339,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1340,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1341,Nhulunbuy,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1342,Lembeni,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+1343,Rocha,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1344,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1345,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1346,Avera,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1347,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1348,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1349,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1350,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1351,Galiwinku,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1352,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1353,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1354,Terenos,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1355,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1356,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1357,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1358,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1359,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1360,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1361,Merauke,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1362,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1363,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1364,Maldonado,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1365,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1366,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1367,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1368,Puerto Leguizamo,19.2167,-98.8083,65.05,92,94,3.0,MX,light rain
+1369,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1370,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1371,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1372,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1373,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1374,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1375,Hambantota,6.1241,81.1185,79.77,77,99,8.55,LK,overcast clouds
+1376,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1377,Rawson,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1378,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1379,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1380,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1381,Victoria,22.2855,114.1577,87.24,86,3,3.0,HK,clear sky
+1382,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1383,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1384,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1385,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1386,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1387,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1388,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1389,Gladstone,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1390,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1391,Richards Bay,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1392,Olinda,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1393,Mayumba,-3.432,10.6554,75.36,86,99,7.56,GA,overcast clouds
+1394,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1395,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1396,Santiago De Cao,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1397,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1398,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1399,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1400,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1401,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1402,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1403,Talcahuano,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1404,Mentok,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1405,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1406,Viedma,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1407,Paracatu,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1408,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1409,Richards Bay,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1410,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1411,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1412,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1413,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1414,Ilhabela,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1415,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1416,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+1417,Te Anau,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1418,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1419,Khorixas,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+1420,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1421,Alofi,-19.0595,-169.9187,77.31,80,60,16.22,NU,light rain
+1422,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1423,Huarmey,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1424,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1425,Nhulunbuy,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1426,Coari,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1427,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1428,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1429,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1430,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1431,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1432,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1433,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1434,Russell,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1435,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1436,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1437,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1438,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1439,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1440,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1441,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1442,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1443,Cap Malheureux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1444,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1445,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1446,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1447,Moree,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1448,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1449,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1450,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1451,Palabuhanratu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1452,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1453,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1454,Mayumba,-3.432,10.6554,75.36,86,99,7.56,GA,overcast clouds
+1455,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1456,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1457,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1458,Kununurra,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1459,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1460,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1461,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1462,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1463,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1464,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1465,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1466,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1467,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1468,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1469,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1470,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1471,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1472,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1473,Gamba,-3.432,10.6554,75.36,86,99,7.56,GA,overcast clouds
+1474,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1475,Isangel,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+1476,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1477,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1478,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1479,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1480,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1481,Mangaratiba,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1482,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1483,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1484,Poum,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+1485,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1486,San Cristobal,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1487,San Cristobal,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1488,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1489,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1490,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1491,Harper,4.375,-7.7169,75.94,91,100,5.32,LR,moderate rain
+1492,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1493,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1494,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1495,Alofi,-19.0595,-169.9187,77.31,80,60,16.22,NU,light rain
+1496,Touros,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1497,Sola,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+1498,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1499,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1500,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1501,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1502,Sao Joao Da Barra,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1503,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1504,San Pedro,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1505,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1506,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1507,Alice Springs,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1508,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1509,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1510,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1511,Atambua,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1512,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1513,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1514,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1515,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1516,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1517,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1518,Alice Springs,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1519,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1520,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1521,Touros,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1522,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1523,Grand Gaube,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1524,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1525,Owando,1.6136,16.0517,70.61,98,93,2.77,CG,overcast clouds
+1526,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1527,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1528,Saquarema,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1529,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1530,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1531,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1532,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1533,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1534,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1535,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1536,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1537,East London,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1538,Tarauaca,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1539,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1540,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1541,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1542,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1543,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1544,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1545,Broome,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1546,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1547,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1548,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1549,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1550,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1551,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1552,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1553,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1554,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1555,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1556,Armidale,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1557,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1558,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1559,Inhambane,-14.8031,36.5372,76.53,39,34,6.4,MZ,scattered clouds
+1560,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1561,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1562,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1563,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1564,Huaraz,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1565,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1566,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1567,Kaitangata,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1568,Yulara,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1569,Port Lincoln,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1570,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1571,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1572,Koumac,-22.6667,167.4833,69.85,77,68,23.09,NC,broken clouds
+1573,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1574,Kaeo,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1575,Grand River South East,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1576,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1577,Lima,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1578,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1579,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1580,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1581,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1582,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1583,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1584,Fare,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1585,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1586,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1587,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1588,Njombe,-8.1167,34.25,66.63,61,46,1.57,TZ,scattered clouds
+1589,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1590,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1591,Necochea,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1592,Padang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1593,San Cristobal,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1594,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1595,Carmelo,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1596,Castro,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1597,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1598,Presidencia Roque Saenz Pena,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1599,Rawson,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1600,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1601,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1602,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1603,Caravelas,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1604,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1605,Salinas,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1606,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1607,San Cristobal,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1608,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1609,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1610,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1611,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1612,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1613,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1614,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1615,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1616,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1617,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1618,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1619,Sao Joao Da Barra,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1620,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1621,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1622,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1623,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1624,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1625,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1626,Asau,46.4333,26.4,49.28,89,5,1.3,RO,light rain
+1627,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1628,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1629,Coihaique,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1630,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1631,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1632,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1633,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1634,Sao Felix Do Xingu,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1635,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1636,Lebu,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1637,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1638,Avera,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1639,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1640,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1641,Kawalu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1642,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1643,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1644,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1645,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1646,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1647,Gladstone,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1648,Kendari,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1649,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1650,Alofi,-19.0595,-169.9187,77.31,80,60,16.22,NU,light rain
+1651,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1652,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1653,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1654,Lolua,46.4333,26.4,49.28,89,5,1.3,RO,light rain
+1655,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1656,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1657,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1658,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1659,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1660,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1661,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1662,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1663,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1664,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1665,Vila Velha,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1666,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1667,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1668,Mondlo,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1669,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1670,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1671,Mahebourg,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1672,Tuatapere,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1673,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1674,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1675,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1676,Senador Jose Porfirio,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1677,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1678,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1679,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1680,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1681,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1682,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1683,Souillac,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1684,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1685,Port Macquarie,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1686,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1687,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1688,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1689,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1690,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1691,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1692,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1693,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1694,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1695,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1696,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1697,Maceio,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1698,Saurimo,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1699,San Patricio,28.017,-97.5169,83.12,70,17,12.59,US,few clouds
+1700,Laguna,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1701,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1702,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1703,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1704,Dondo,-14.8031,36.5372,76.53,39,34,6.4,MZ,scattered clouds
+1705,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1706,Lakes Entrance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1707,Yangambi,-4.9667,23.45,70.63,96,99,1.25,CD,light rain
+1708,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1709,Kapit,2.0167,112.9333,75.13,98,100,0.58,MY,moderate rain
+1710,Maracai,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1711,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1712,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1713,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1714,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1715,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1716,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1717,Luderitz,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+1718,Yulara,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1719,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1720,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1721,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1722,Miracema Do Tocantins,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1723,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1724,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1725,Chimbote,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1726,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1727,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1728,Mount Isa,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1729,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1730,Alyangula,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1731,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1732,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1733,Tautira,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1734,Broome,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1735,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1736,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1737,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1738,Hobart,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1739,Bambous Virieux,-20.5167,57.5167,72.36,78,18,15.08,MU,few clouds
+1740,Matara,6.1241,81.1185,79.77,77,99,8.55,LK,overcast clouds
+1741,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1742,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1743,Soyo,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1744,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1745,Westport,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1746,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1747,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1748,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1749,Swan Hill,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1750,Bengkulu,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1751,Santa Teresa,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1752,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1753,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1754,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1755,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1756,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1757,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1758,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1759,Mazagao,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1760,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1761,Conceicao Da Barra,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1762,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1763,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1764,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1765,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1766,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1767,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1768,Namibe,-15.1961,12.1522,62.96,85,18,6.82,AO,few clouds
+1769,San Cristobal,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1770,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1771,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1772,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1773,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1774,Buin,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1775,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1776,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1777,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1778,Talcahuano,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1779,Christchurch,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1780,Port Augusta,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1781,Porto Walter,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1782,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1783,Lata,-10.4544,161.9205,82.06,77,72,8.41,SB,broken clouds
+1784,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1785,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1786,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1787,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1788,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1789,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds
+1790,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1791,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1792,Vila Velha,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1793,Carnarvon,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1794,Palembang,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1795,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1796,Mar Del Plata,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1797,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1798,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1799,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1800,Tual,1.7427,98.7792,74.88,95,100,2.77,ID,moderate rain
+1801,Samarai,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1802,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1803,Port Elizabeth,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1804,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1805,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1806,Albany,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1807,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1808,Puerto Ayora,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1809,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1810,Cidreira,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1811,Georgetown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1812,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1813,Hithadhoo,0.5333,72.9333,81.99,74,50,4.52,MV,scattered clouds
+1814,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1815,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1816,Taperoa,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1817,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1818,Port Alfred,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1819,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1820,Saldanha,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1821,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1822,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1823,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1824,Umzimvubu,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1825,Isangel,-19.55,169.2667,78.33,72,53,14.03,VU,broken clouds
+1826,Tautira,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1827,Bluff,-46.6,168.3333,51.8,58,91,22.39,NZ,overcast clouds
+1828,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1829,Salinas,-0.7393,-90.3518,70.47,89,81,8.32,EC,broken clouds
+1830,Tocopilla,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1831,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1832,Necochea,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1833,Umzimvubu,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1834,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1835,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1836,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1837,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1838,Cape Town,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1839,Hermanus,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1840,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1841,Sao Geraldo Do Araguaia,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1842,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1843,Chuy,-33.6971,-53.4616,56.43,82,25,12.57,UY,scattered clouds
+1844,Geraldton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1845,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1846,Jamestown,42.097,-79.2353,55.71,83,0,3.31,US,clear sky
+1847,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1848,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1849,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1850,Atuona,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1851,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1852,Arraial Do Cabo,-22.9661,-42.0278,69.89,93,14,10.94,BR,few clouds
+1853,Port Macquarie,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1854,Bredasdorp,-33.0117,17.9442,57.02,78,88,14.58,ZA,overcast clouds
+1855,Mataura,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1856,Comodoro Rivadavia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1857,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1858,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1859,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1860,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1861,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1862,Ushuaia,-54.8,-68.3,40.66,75,75,21.85,AR,broken clouds
+1863,Mount Gambier,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1864,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1865,Grootfontein,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+1866,Saint-Philippe,-21.3585,55.7679,69.35,80,44,13.87,RE,scattered clouds
+1867,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1868,Copiapo,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1869,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1870,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1871,Opuwo,-26.6481,15.1594,54.75,90,49,13.62,NA,scattered clouds
+1872,Sechura,-33.4569,-70.6483,61.86,16,75,5.82,CL,broken clouds
+1873,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1874,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1875,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1876,Esperance,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1877,Punta Arenas,29.4241,-98.4936,87.1,59,2,8.39,US,clear sky
+1878,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1879,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1880,Vaitape,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1881,Namwala,-16.1167,23.2667,73.06,31,67,3.58,ZM,broken clouds
+1882,Rikitea,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1883,Busselton,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1884,Vaini,-21.2,-175.2,74.34,73,99,19.19,TO,overcast clouds
+1885,Faanui,-23.1203,-134.9692,73.42,69,100,17.25,PF,overcast clouds
+1886,New Norfolk,-42.8794,147.3294,53.26,78,75,8.05,AU,broken clouds
+1887,Maua,-0.4536,39.6401,75.7,81,98,16.69,KE,overcast clouds
+1888,Alotau,-6.1219,141.2906,79.18,90,95,3.62,PG,overcast clouds
+1889,Avarua,-21.2078,-159.775,76.05,76,39,10.63,CK,scattered clouds

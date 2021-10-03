@@ -1,0 +1,930 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+2,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+4,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+6,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+7,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+8,San Antonio,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+9,Sibolga,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+10,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+12,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+15,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+16,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+18,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+22,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+23,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+24,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+25,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+26,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+28,Sumbawa,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+31,Atambua,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+33,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+34,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+35,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+36,Sucua,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+38,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+42,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+45,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+47,Avera,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+49,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+53,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+54,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+55,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+61,Senanga,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+63,Kaputa,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+65,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+66,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+67,Alta Floresta,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+69,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+70,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+72,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+73,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+75,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+78,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+79,Jaru,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+80,Luwuk,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+85,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+86,Senanga,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+87,Ancud,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+88,Metro,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+89,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+90,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+92,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+94,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+95,Fare,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+98,Martapura,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+99,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+100,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+101,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+105,Labuhan,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+106,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+107,Isangel,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+108,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+109,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+110,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+112,Santa Rosa,PH,84.85,broken clouds,14.3122,121.1114,Erlyn’s Sta Rosa City Home
+113,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+114,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+120,Coquimbo,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+122,Fare,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+123,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+124,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+125,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+127,Maragogi,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+130,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+132,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+135,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+136,Gondanglegi,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+137,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+139,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+140,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+141,San Cristobal,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+142,Singojuruh,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+144,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+145,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+148,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+151,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+153,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+155,Vao,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+156,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+160,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+162,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+164,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+165,Miraflores,MX,65.05,light rain,19.2167,-98.8083,Hotel Mansión
+166,Kaoma,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+167,Caravelas,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+171,Kirakira,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+173,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+176,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+178,Coihaique,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+180,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+181,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+182,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+185,Diego De Almagro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+186,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+187,Cuamba,MZ,76.53,scattered clouds,-14.8031,36.5372,Hotel Vision
+188,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+191,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+193,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+195,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+196,Lakatoro,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+198,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+203,Kiunga,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+205,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+206,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+207,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+209,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+210,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+215,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+217,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+218,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+220,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+222,Poum,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+223,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+226,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+227,Quatre Cocos,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+228,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+229,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+231,Sehithwa,BW,76.42,scattered clouds,-20.4667,22.7167,MONLEK GUEST HOUSE
+233,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+235,Belmonte,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+238,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+242,Fayaoue,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+243,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+245,Padang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+246,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+247,Takoradi,GH,75.79,broken clouds,4.8845,-1.7554,Raybow International Hotel
+254,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+255,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+256,Hambantota,LK,79.77,overcast clouds,6.1241,81.1185,Bungalow 63
+259,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+260,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+263,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+264,Nabire,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+268,Laguna,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+269,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+270,Ouesso,CG,70.61,overcast clouds,1.6136,16.0517,ABENIE Hotel
+274,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+279,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+280,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+283,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+284,Padang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+285,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+286,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+287,Ancud,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+288,Laguna,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+291,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+293,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+295,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+296,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+299,Waingapu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+303,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+306,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+309,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+313,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+319,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+321,Mayumba,GA,75.36,overcast clouds,-3.432,10.6554,LIKWALE LODGE
+323,Auki,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+324,Mendahara,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+327,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+329,Boa Viagem,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+330,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+331,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+337,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+338,Breves,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+340,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+341,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+343,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+345,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+347,Barra Do Bugres,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+349,Itarema,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+352,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+354,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+355,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+356,Kiunga,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+359,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+361,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+364,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+368,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+369,Grand Gaube,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+370,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+374,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+376,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+379,Meulaboh,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+380,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+383,Inhambane,MZ,76.53,scattered clouds,-14.8031,36.5372,Hotel Vision
+384,Saint-Joseph,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+389,Le Port,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+391,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+392,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+393,Salinas,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+394,Hambantota,LK,79.77,overcast clouds,6.1241,81.1185,Bungalow 63
+395,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+396,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+397,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+399,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+404,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+405,Nkhotakota,MW,75.56,few clouds,-12.9274,34.2961,Sitima Inn
+406,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+407,Olinda,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+410,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+411,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+412,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+414,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+418,Garissa,KE,75.7,overcast clouds,-0.4536,39.6401,Sharif Plaza Hotel
+420,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+421,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+424,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+425,Gizo,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+426,Coquimbo,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+427,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+430,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+431,Kirakira,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+435,Biak,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+437,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+438,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+443,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+448,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+449,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+450,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+454,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+455,Santa Isabel Do Rio Negro,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+457,Auki,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+458,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+462,Lata,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+466,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+467,Caravelas,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+468,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+469,Olinda,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+472,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+474,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+476,Joao Pessoa,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+477,Bulawayo,ZW,69.58,clear sky,-20.15,28.5833,4 On Housman Backpackers
+478,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+482,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+483,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+484,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+488,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+489,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+490,Guarapari,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+492,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+493,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+494,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+496,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+499,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+500,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+502,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+503,Grand Gaube,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+504,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+508,Challapata,PH,84.85,broken clouds,14.3122,121.1114,Erlyn’s Sta Rosa City Home
+509,Padang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+510,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+511,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+512,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+513,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+516,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+517,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+518,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+520,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+523,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+525,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+527,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+529,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+531,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+534,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+535,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+536,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+537,Barcelos,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+541,Poya,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+543,Conceicao Do Araguaia,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+544,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+545,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+549,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+551,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+555,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+560,San Cristobal,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+564,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+565,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+566,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+568,Palabuhanratu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+569,Vila Velha,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+570,Tabou,CI,76.06,moderate rain,4.423,-7.3528,hotêl doufoulougou
+572,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+576,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+577,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+578,Kieta,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+579,Palabuhanratu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+580,Curuguaty,PY,80.08,few clouds,-24.4694,-55.6945,La Esquina del Tereré
+581,Tabou,CI,76.06,moderate rain,4.423,-7.3528,hotêl doufoulougou
+583,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+589,Namatanai,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+595,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+598,Merauke,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+599,Irpa Irpa,PH,84.85,broken clouds,14.3122,121.1114,Erlyn’s Sta Rosa City Home
+603,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+607,Samarai,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+608,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+611,Mwinilunga,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+612,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+616,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+618,Isangel,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+621,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+622,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+623,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+624,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+626,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+627,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+630,Sijunjung,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+633,Poum,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+637,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+638,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+639,Laguna,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+643,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+645,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+647,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+649,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+650,Belmonte,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+652,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+657,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+658,Lata,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+663,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+664,Quatre Cocos,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+665,Gamba,GA,75.36,overcast clouds,-3.432,10.6554,LIKWALE LODGE
+667,Lichinga,MZ,76.53,scattered clouds,-14.8031,36.5372,Hotel Vision
+669,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+672,Grand Gaube,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+674,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+676,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+678,Mayor Pablo Lagerenza,PY,80.08,few clouds,-24.4694,-55.6945,La Esquina del Tereré
+679,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+682,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+683,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+684,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+686,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+688,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+689,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+692,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+694,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+698,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+699,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+700,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+701,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+702,Hambantota,LK,79.77,overcast clouds,6.1241,81.1185,Bungalow 63
+704,Axim,GH,75.79,broken clouds,4.8845,-1.7554,Raybow International Hotel
+705,Linhares,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+707,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+709,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+711,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+713,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+715,Rio Grande,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+719,Cananeia,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+721,Chinhoyi,ZW,69.58,clear sky,-20.15,28.5833,4 On Housman Backpackers
+722,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+723,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+724,Japura,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+725,Natal,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+729,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+730,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+731,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+732,Lorengau,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+738,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+742,Conde,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+743,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+744,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+745,Vila Velha,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+746,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+747,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+750,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+752,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+760,Biak,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+761,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+762,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+767,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+771,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+772,Constitucion,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+773,Boyolangu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+775,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+776,Pouembout,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+777,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+782,Kieta,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+783,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+784,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+785,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+786,Lata,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+787,Hambantota,LK,79.77,overcast clouds,6.1241,81.1185,Bungalow 63
+788,Luwuk,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+789,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+790,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+791,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+793,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+794,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+795,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+797,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+800,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+801,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+802,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+803,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+804,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+805,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+807,Samarai,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+808,Senanga,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+809,Jaciara,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+810,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+812,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+818,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+819,Papara,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+820,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+824,Vaitape,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+825,Manggar,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+828,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+829,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+830,Jaragua Do Sul,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+831,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+832,Puerto Leguizamo,MX,65.05,light rain,19.2167,-98.8083,Hotel Mansión
+834,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+840,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+842,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+845,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+847,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+848,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+849,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+850,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+853,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+854,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+855,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+856,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+857,Tiarei,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+862,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+863,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+865,Sorong,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+866,Namatanai,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+869,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+875,Poum,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+877,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+880,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+884,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+886,Vao,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+889,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+890,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+894,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+895,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+898,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+901,Bima,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+903,Coquimbo,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+906,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+909,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+914,Quatre Cocos,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+915,Eirunepe,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+916,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+919,Gizo,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+920,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+921,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+922,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+923,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+924,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+925,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+926,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+928,Meulaboh,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+929,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+930,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+931,Porto Belo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+934,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+938,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+939,Bengkalis,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+940,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+941,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+943,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+945,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+949,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+950,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+954,Tidore,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+956,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+958,Maxixe,MZ,76.53,scattered clouds,-14.8031,36.5372,Hotel Vision
+959,Xai-Xai,MZ,76.53,scattered clouds,-14.8031,36.5372,Hotel Vision
+963,Mwingi,KE,75.7,overcast clouds,-0.4536,39.6401,Sharif Plaza Hotel
+964,Ilhabela,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+965,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+967,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+968,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+969,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+971,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+973,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+974,Lata,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+976,Gorontalo,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+979,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+982,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+983,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+986,Touros,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+987,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+991,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+994,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+997,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1004,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1006,Isangel,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+1008,Saint-Joseph,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1009,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1011,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1013,Grand Gaube,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1014,Kainantu,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1017,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1018,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1019,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1022,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1027,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1029,Samarai,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1030,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1031,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1032,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1039,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1042,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1044,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1045,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1047,Cap Malheureux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1050,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1052,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1053,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1054,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1055,Nkhotakota,MW,75.56,few clouds,-12.9274,34.2961,Sitima Inn
+1059,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1061,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1062,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1064,Ilheus,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1066,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1069,Maues,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1071,Poum,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+1072,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1073,Lata,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+1074,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1075,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1076,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1077,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1078,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1082,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1085,Port-Gentil,GA,75.36,overcast clouds,-3.432,10.6554,LIKWALE LODGE
+1091,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1095,Pontal Do Parana,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1097,Alofi,NU,77.31,light rain,-19.0595,-169.9187,Taloa Heights
+1100,Antofagasta,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1106,Florianopolis,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1111,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1114,Vila Velha,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1115,Imbituba,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1116,Mayumba,GA,75.36,overcast clouds,-3.432,10.6554,LIKWALE LODGE
+1117,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1122,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1124,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1129,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1130,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1131,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1132,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1134,Coihaique,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1139,Sola,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+1142,Bambanglipuro,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1144,Touros,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1145,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1152,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1155,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1165,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1166,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1167,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1168,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1171,Tadine,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+1172,Boa Viagem,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1174,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1176,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1177,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1178,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1180,Le Port,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1181,Mpika,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+1182,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1183,Madang,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1184,Kandrian,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1189,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1192,Pirai Do Sul,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1197,Banjar,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1199,Vila Velha,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1200,Puerto Leguizamo,MX,65.05,light rain,19.2167,-98.8083,Hotel Mansión
+1201,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1203,Magadi,KE,75.7,overcast clouds,-0.4536,39.6401,Sharif Plaza Hotel
+1205,Harper,LR,75.94,moderate rain,4.375,-7.7169,Screensaver
+1206,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1208,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1210,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1211,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1213,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1215,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1217,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1218,Palabuhanratu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1219,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1220,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1226,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1229,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1231,Sumbawa,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1232,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1233,Padang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1235,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1236,Padang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1237,Pirapora,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1239,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1241,Nabire,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1242,Ancud,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1245,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1246,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1250,Lata,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+1251,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1252,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1254,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1255,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1256,Alofi,NU,77.31,light rain,-19.0595,-169.9187,Taloa Heights
+1265,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1271,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1272,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1276,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1278,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1280,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1281,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1282,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1283,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1284,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1286,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1290,Merauke,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1291,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1292,Gilgil,KE,75.7,overcast clouds,-0.4536,39.6401,Sharif Plaza Hotel
+1294,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1295,Quatre Cocos,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1297,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1298,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1302,Lorengau,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1303,Tiarei,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1304,Monrovia,LR,75.94,moderate rain,4.375,-7.7169,Screensaver
+1305,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1306,Fare,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1310,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1313,Padang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1322,Manggar,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1323,Rio Grande,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1324,Caravelas,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1325,Itaituba,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1328,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1330,Isangel,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+1331,Caravelas,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1332,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1334,Vilcun,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1335,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1336,Pontal Do Parana,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1340,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1344,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1346,Avera,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1349,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1352,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1354,Terenos,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1355,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1356,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1357,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1361,Merauke,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1363,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1365,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1368,Puerto Leguizamo,MX,65.05,light rain,19.2167,-98.8083,Hotel Mansión
+1372,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1374,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1375,Hambantota,LK,79.77,overcast clouds,6.1241,81.1185,Bungalow 63
+1378,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1379,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1381,Victoria,HK,87.24,clear sky,22.2855,114.1577,Mini Hotel Central
+1382,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1384,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1386,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1387,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1390,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1392,Olinda,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1393,Mayumba,GA,75.36,overcast clouds,-3.432,10.6554,LIKWALE LODGE
+1394,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1395,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1397,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1401,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1402,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1403,Talcahuano,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1404,Mentok,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1405,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1407,Paracatu,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1410,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1411,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1413,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1414,Ilhabela,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1415,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1420,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1421,Alofi,NU,77.31,light rain,-19.0595,-169.9187,Taloa Heights
+1422,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1426,Coari,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1427,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1428,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1433,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1435,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1436,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1437,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1440,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1442,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1443,Cap Malheureux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1448,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1450,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1451,Palabuhanratu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1453,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1454,Mayumba,GA,75.36,overcast clouds,-3.432,10.6554,LIKWALE LODGE
+1455,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1457,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1459,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1462,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1464,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1467,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1471,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1473,Gamba,GA,75.36,overcast clouds,-3.432,10.6554,LIKWALE LODGE
+1474,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1475,Isangel,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+1481,Mangaratiba,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1482,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1484,Poum,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+1486,San Cristobal,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1487,San Cristobal,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1490,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1491,Harper,LR,75.94,moderate rain,4.375,-7.7169,Screensaver
+1492,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1495,Alofi,NU,77.31,light rain,-19.0595,-169.9187,Taloa Heights
+1496,Touros,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1497,Sola,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+1498,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1500,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1502,Sao Joao Da Barra,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1505,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1508,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1509,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1511,Atambua,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1516,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1517,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1519,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1520,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1521,Touros,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1523,Grand Gaube,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1524,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1525,Owando,CG,70.61,overcast clouds,1.6136,16.0517,ABENIE Hotel
+1526,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1528,Saquarema,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1529,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1530,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1533,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1534,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1538,Tarauaca,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1539,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1540,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1542,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1546,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1550,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1551,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1552,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1553,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1554,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1555,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1559,Inhambane,MZ,76.53,scattered clouds,-14.8031,36.5372,Hotel Vision
+1560,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1566,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1572,Koumac,NC,69.85,broken clouds,-22.6667,167.4833,Hotel Kou-Bugny
+1573,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1575,Grand River South East,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1578,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1580,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1581,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1582,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1583,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1584,Fare,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1585,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1586,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1587,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1592,Padang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1593,San Cristobal,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1596,Castro,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1600,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1603,Caravelas,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1605,Salinas,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1607,San Cristobal,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1609,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1611,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1612,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1615,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1616,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1619,Sao Joao Da Barra,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1620,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1624,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1625,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1629,Coihaique,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1630,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1633,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1634,Sao Felix Do Xingu,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1636,Lebu,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1637,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1638,Avera,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1639,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1640,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1641,Kawalu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1643,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1644,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1645,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1648,Kendari,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1650,Alofi,NU,77.31,light rain,-19.0595,-169.9187,Taloa Heights
+1651,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1652,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1657,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1658,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1659,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1660,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1662,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1665,Vila Velha,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1666,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1669,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1671,Mahebourg,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1673,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1674,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1676,Senador Jose Porfirio,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1679,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1682,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1683,Souillac,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1684,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1690,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1696,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1697,Maceio,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1699,San Patricio,US,83.12,few clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+1700,Laguna,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1701,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1703,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1704,Dondo,MZ,76.53,scattered clouds,-14.8031,36.5372,Hotel Vision
+1705,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1709,Kapit,MY,75.13,moderate rain,2.0167,112.9333,Hotel Meligai Kapit
+1710,Maracai,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1711,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1713,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1715,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1719,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1722,Miracema Do Tocantins,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1727,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1729,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1732,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1733,Tautira,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1736,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1739,Bambous Virieux,MU,72.36,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1740,Matara,LK,79.77,overcast clouds,6.1241,81.1185,Bungalow 63
+1741,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1744,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1750,Bengkulu,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1751,Santa Teresa,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1752,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1754,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1756,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1759,Mazagao,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1760,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1761,Conceicao Da Barra,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1762,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1766,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1767,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1769,San Cristobal,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1771,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1774,Buin,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1776,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1777,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1778,Talcahuano,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1781,Porto Walter,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1782,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1783,Lata,SB,82.06,broken clouds,-10.4544,161.9205,SanBiz Lodge
+1785,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1787,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1788,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1789,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
+1790,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1791,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1792,Vila Velha,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1794,Palembang,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1799,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1800,Tual,ID,74.88,moderate rain,1.7427,98.7792,Hotel Syariah CN Darussalam
+1801,Samarai,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1808,Puerto Ayora,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1810,Cidreira,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1812,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1814,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1815,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1816,Taperoa,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1819,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1821,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1823,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1825,Isangel,VU,78.33,broken clouds,-19.55,169.2667,Tanna Lodge
+1826,Tautira,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1829,Salinas,EC,70.47,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1830,Tocopilla,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1834,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1835,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1836,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1837,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1840,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1841,Sao Geraldo Do Araguaia,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1845,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1849,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1850,Atuona,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1851,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1852,Arraial Do Cabo,BR,69.89,few clouds,-22.9661,-42.0278,Pousada Porto Praia
+1855,Mataura,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1857,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1859,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1860,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1864,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1866,Saint-Philippe,RE,69.35,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1867,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1868,Copiapo,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1869,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1870,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1874,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1875,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1877,Punta Arenas,US,87.1,clear sky,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+1878,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1880,Vaitape,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1881,Namwala,ZM,73.06,broken clouds,-16.1167,23.2667,Zango lodge
+1882,Rikitea,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1884,Vaini,TO,74.34,overcast clouds,-21.2,-175.2,Keleti Beach Resort
+1885,Faanui,PF,73.42,overcast clouds,-23.1203,-134.9692,People ThankYou
+1887,Maua,KE,75.7,overcast clouds,-0.4536,39.6401,Sharif Plaza Hotel
+1888,Alotau,PG,79.18,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+1889,Avarua,CK,76.05,scattered clouds,-21.2078,-159.775,Paradise Inn
